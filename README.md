@@ -9,9 +9,9 @@
 
 # Nevigation in branches
 
- git branch -m (rename the branch)
- git branch (check the branches)
- git branch (provide the names of all branches available)
- git checkout (branch name )  = > uesd to switch 
- git checkout -b newfranch 
- git branch -d deletebranch
+ git branch -m (rename the branch) <br>
+ git branch (check the branches) <br>
+ git branch (provide the names of all branches available) <br>
+ git checkout (branch name )  = > uesd to switch  <br>
+ git checkout -b newfranch  <br>
+ git branch -d deletebranch  <br>
