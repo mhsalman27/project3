@@ -6,3 +6,12 @@
  git branch <br>
  git branch -m "rename" <br>
  git push origin  main
+
+# Nevigation in branches
+
+ git branch -m (rename the branch)
+ git branch (check the branches)
+ git branch (provide the names of all branches available)
+ git checkout (branch name )  = > uesd to switch 
+ git checkout -b newfranch 
+ git branch -d deletebranch
